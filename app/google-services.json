@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034001323666",
+    "project_id": "munirah171053",
+    "storage_bucket": "munirah171053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034001323666:android:3e37dbf9eaff68296ef84b",
+        "android_client_info": {
+          "package_name": "com.mun.usersfirebasetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034001323666-nmi6fhrf8pmq2ugou3q0qp9kfcoarsge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTmYfDBRmT9xAfXPpBc0oKh-HlcWE4Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034001323666-nmi6fhrf8pmq2ugou3q0qp9kfcoarsge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

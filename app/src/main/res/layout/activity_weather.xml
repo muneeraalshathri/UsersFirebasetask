@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WeatherActivity"
+    android:padding="8dp">
+
+
+    <EditText
+        android:id="@+id/et_city_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="City Name"
+        android:text="London"/>
+
+
+    <Button
+        android:id="@+id/btn_get_weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Weather" />
+
+
+    <TextView
+        android:id="@+id/tv_weather_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
